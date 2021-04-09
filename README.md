@@ -1,7 +1,7 @@
 # checkmypass
 
 This script allows you to check, in a safer manner, if your password have been ever used before.
-Safer cause it doesn't send your password to the network for checking.
+Safer because it doesn't send your password to the network for checking.
 It pulls from the Have I Been Pawned API (https://api.pwnedpasswords.com) a list that is examined by the script.
 The list is based on hash that is sent incomplete, so it's near impossible to link anyhow to the password you provide.
 
